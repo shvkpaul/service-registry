@@ -1,1 +1,1 @@
-# service-registry
+This is a Eureka server repository
